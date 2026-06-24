@@ -81,7 +81,6 @@ Documented defects discovered during execution including:
 The project is still in progress and upcoming phases will include:
 
 * API Testing (Postman)
-* Database Testing (SQL)
 * Automation Testing (Selenium)
 * RTM (Requirement Traceability Matrix)
 * Test Summary Report
